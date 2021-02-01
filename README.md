@@ -1,5 +1,5 @@
-#Proyecto de Arduino*
+# Proyecto de Arduino*
 
-##Empezando a documentar
+## Empezando a documentar
 
 esta es mi primerita vez
