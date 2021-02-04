@@ -10,4 +10,4 @@ esta es mi primerita vez
 
 [proyecto con buclle for ino para utilizar y con led rgb](https://github.com/Wesley3455/Arduino-/blob/main/Buclle_for.ino.ino)
 
-
+[proyecto con sketch Son](https://github.com/Wesley3455/Arduino-/blob/main/sketch_Son.ino) 
