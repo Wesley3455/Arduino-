@@ -17,3 +17,8 @@ esta es mi primerita vez
 [SNIPPET_KILL](https://github.com/Wesley3455/Arduino-/blob/main/SNIPPER_KILL_SWTCH.CPP)
 
 [Repositorios de compañeros](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
+
+[proyecto Sketch motor](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb08a_motor.ino)
+
+
+![rreetdd](https://github.com/Wesley3455/Arduino-/blob/main/1612783302659.jpg)
