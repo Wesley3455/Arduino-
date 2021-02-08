@@ -14,4 +14,6 @@ esta es mi primerita vez
 
 [proyecto con melodiatheremi](https://github.com/Wesley3455/Arduino-/blob/main/melodiatheremin.ino) 
 
-[preyecto SNIPPET_KILL](https://github.com/Wesley3455/Arduino-/blob/main/SNIPPER_KILL_SWTCH.CPP)
+[SNIPPET_KILL](https://github.com/Wesley3455/Arduino-/blob/main/SNIPPER_KILL_SWTCH.CPP)
+
+[Repositorios de compañeros](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
