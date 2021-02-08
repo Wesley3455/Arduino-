@@ -13,3 +13,5 @@ esta es mi primerita vez
 [proyecto con sketch Son](https://github.com/Wesley3455/Arduino-/blob/main/sketch_Son.ino) 
 
 [proyecto con melodiatheremi](https://github.com/Wesley3455/Arduino-/blob/main/melodiatheremin.ino) 
+
+[preyecto SNIPPET_KILL](https://github.com/Wesley3455/Arduino-/blob/main/SNIPPER_KILL_SWTCH.CPP)
