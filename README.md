@@ -27,3 +27,5 @@ esta es mi primerita vez
 
 
  <img src="https://github.com/Wesley3455/Arduino-/blob/main/1612860387340.jpg" alt="proyecto con dos botones" width="500"> 
+ 
+ ![foto movimiento](https://github.com/Wesley3455/Arduino-/blob/main/1612860387340(1).jpg)
