@@ -20,7 +20,7 @@ esta es mi primerita vez
 
 [proyecto Sketch motor](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb08a_motor.ino)
 
-
+https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
 ![rreetdd](https://github.com/Wesley3455/Arduino-/blob/main/1612783302659.jpg)
 
 [proyecto con dos botones](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09a_dos_botones.ino) 
@@ -34,4 +34,4 @@ esta es mi primerita vez
  
  [proyecto con Killswitch y potenciómetro](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino)
  
- ![foto KILLSWITCH](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino)
+ ![foto KILLSWITCH](https://github.com/Wesley3455/Arduino-/blob/main/1612871762579.jpg)
