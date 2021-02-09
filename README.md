@@ -24,3 +24,6 @@ esta es mi primerita vez
 ![rreetdd](https://github.com/Wesley3455/Arduino-/blob/main/1612783302659.jpg)
 
 [proyecto con dos botones](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09a_dos_botones.ino) 
+
+
+ <img src="https://github.com/Wesley3455/Arduino-/blob/main/1612860387340.jpg" alt="proyecto con dos botones" width="500"> 
