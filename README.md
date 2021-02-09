@@ -32,4 +32,4 @@ esta es mi primerita vez
  
  [proyecto con dos movimiento](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09a_dos_botones_y_movimiento.ino)
  
- [proyecto con Killswitch y potenciómetro]()
+ [proyecto con Killswitch y potenciómetro](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino)
