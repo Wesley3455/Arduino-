@@ -23,4 +23,4 @@ esta es mi primerita vez
 
 ![rreetdd](https://github.com/Wesley3455/Arduino-/blob/main/1612783302659.jpg)
 
-[proyecto con dos botones}(https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09a_dos_botones.ino) 
+[proyecto con dos botones](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09a_dos_botones.ino) 
