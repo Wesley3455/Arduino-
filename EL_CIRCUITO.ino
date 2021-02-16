@@ -1,38 +1,31 @@
-const int switchPin = 8;
-unsigned long previousTime = 0;
+int notes[] = {262,294,330,349};
+//relaciona cada valor de la lista anterior con uno de esta
 
-int switchState = 0;
-int prevSwitchState = 0;
-int led = 2;
-
-long interval = 600;
-
-void setup() {
-  // put your setup code here, to run once:
-    for(int x = 2;x < 8; x ++){
-      pinMode(x, OUTPUT);
+void setup(){
+  Serial.begin(9600);
 }
-      pinMode(switchPin, INPUT);
-      Serial.begin(9600);
-}
-void loop() {
-  // put your main code here, to run repeatedly:
-unsigned long currentTime = millis();
-if(currentTime - previousTime > interval){
-  Serial.println("Debería encenderse un led");
-   previousTime = currentTime;
-   digitalWrite(led, HIGH);
-   led++;
-   if(led == 7){
+
+void loop(){
+
+  int keyVal = analogRead(A0);
+
+//lee un valor entre 0 y 1024 dependiendo de qué botón está pulsado
+
+  Serial.println(keyVal);
+ 
+  if(keyVal == 1023){
+    tone(8, notes[0]);
   }
-}
-switchState = digitalRead(switchPin);
-if(switchState != prevSwitchState){
-  for(int x = 2;x<8;x++){
-    digitalWrite(x, LOW);
-  } 
-  led = 2;
-  previousTime = currentTime;
-}
-prevSwitchState = switchState;
+  else if(keyVal >= 990 && keyVal <=1010){
+    tone(8, notes[1]);
+  }
+  else if(keyVal >= 505 && keyVal <= 515){
+    tone(8, notes[2]);
+  }
+  else if(keyVal >= 5 && keyVal <=10){
+    tone(8, notes[3]);
+  }
+  else{
+    noTone(8);
+  }
 }
