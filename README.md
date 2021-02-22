@@ -37,11 +37,12 @@ https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
  
  [proyecto con dos movimiento](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09a_dos_botones_y_movimiento.ino)
  
- ## 
+ ## PROYECTO CON killswitch y potenciometro
  [proyecto con Killswitch y potenciómetro](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino)
  
  ![foto KILLSWITCH](https://github.com/Wesley3455/Arduino-/blob/main/1612871762579.jpg)
  
+ ## EL CIRCUITO
  [EL CIRCUITO 1](https://github.com/Wesley3455/Arduino-/blob/main/EL_CIRCUITO.ino)
  
  
