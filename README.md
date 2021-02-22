@@ -45,7 +45,7 @@ https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
  ## EL CIRCUITO
  [EL CIRCUITO 1](https://github.com/Wesley3455/Arduino-/blob/main/EL_CIRCUITO.ino)
  
- 
+ [EL CIRCUITO 2](https://github.com/Wesley3455/Arduino-/blob/main/EL_CIRCUITO_2.ino)
  
  
  
