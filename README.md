@@ -1,8 +1,6 @@
-# Proyecto de Arduino*
-
-## Empezando a documentar
-
-esta es mi primerita vez  
+## DESCRIPCION DEL PROYECTO
+Hola soy wesley y me gusta jugar free fire 
+## INDICE DEL PROYECTO
 
 [Instrucciones Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
@@ -10,19 +8,26 @@ esta es mi primerita vez
 
 [proyecto con buclle for ino para utilizar y con led rgb](https://github.com/Wesley3455/Arduino-/blob/main/Buclle_for.ino.ino)
 
+## PROYCTO REALIZADO
+
+## PROYECTOS CON sketch Son
+
 [proyecto con sketch Son](https://github.com/Wesley3455/Arduino-/blob/main/sketch_Son.ino) 
 
 [proyecto con melodiatheremi](https://github.com/Wesley3455/Arduino-/blob/main/melodiatheremin.ino) 
 
 [SNIPPET_KILL](https://github.com/Wesley3455/Arduino-/blob/main/SNIPPER_KILL_SWTCH.CPP)
 
+## REPOSITORIO
 [Repositorios de compañeros](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
+## PROYECTO CON sketch motor 
 [proyecto Sketch motor](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb08a_motor.ino)
 
 https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
 ![rreetdd](https://github.com/Wesley3455/Arduino-/blob/main/1612783302659.jpg)
 
+## PROYECTO CON DOS BOTONES Y MOVIMIENTO
 [proyecto con dos botones](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09a_dos_botones.ino) 
 
 
@@ -32,6 +37,7 @@ https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
  
  [proyecto con dos movimiento](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09a_dos_botones_y_movimiento.ino)
  
+ ## 
  [proyecto con Killswitch y potenciómetro](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino)
  
  ![foto KILLSWITCH](https://github.com/Wesley3455/Arduino-/blob/main/1612871762579.jpg)
