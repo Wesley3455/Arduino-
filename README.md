@@ -49,4 +49,4 @@ https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
  
  ## PROYECTO CON 7 LEDS
  [7 LEDS](https://github.com/Wesley3455/Arduino-/blob/main/bot_n_con7_leds.ino)
- 
+ ![FOTO](https://github.com/Wesley3455/Arduino-/blob/main/1613996991085.jpg)
