@@ -101,3 +101,5 @@ https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
 [Codigo swith diferente](https://github.com/Wesley3455/Arduino-/blob/main/swith_pin_bc_diferente.ino)
 
 [MOTORleds](https://github.com/Wesley3455/Arduino-/blob/main/leds_con_motor.ino)
+
+
