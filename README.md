@@ -9,13 +9,36 @@ Hola soy wesley y me gusta jugar free fire.
 
 * [PROYECTO CON 7 LEDS](#proyecto-con-7-leds)
 
-## Proyectos realizados
+## PROYECTOS REALIZADOS
 
 ### Proyectos con LED Y botón
 
 ### Proyectos de luz RGB
 
-### Proyectos de motores de corriente contínua 9V
+## PROYECTO CON killswitch y potenciometro
+
+· [proyecto con Killswitch y potenciómetro](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino)
+ 
+ ![foto KILLSWITCH](https://github.com/Wesley3455/Arduino-/blob/main/1612871762579.jpg)
+ 
+
+ ## EL CIRCUITO
+ 
+  ·[EL CIRCUITO 1](https://github.com/Wesley3455/Arduino-/blob/main/EL_CIRCUITO.ino)
+ 
+  ·[EL CIRCUITO 2](https://github.com/Wesley3455/Arduino-/blob/main/EL_CIRCUITO_2.ino)
+ 
+ ### Proyectos de motores de corriente contínua 
+ 
+ [Molinillo motorizado](https://github.com/Wesley3455/Arduino-/blob/main/MOLINILLO_MOTORIZADO.ino)
+
+ ## PROYECTO CON 7 LEDS
+ 
+ ·[7 LEDS](https://github.com/Wesley3455/Arduino-/blob/main/bot_n_con7_leds.ino)
+ 
+ ![FOTO](https://github.com/Wesley3455/Arduino-/blob/main/1613996991085.jpg)
+
+
 
 [Molinillo motorizado](https://github.com/Wesley3455/Arduino-/blob/main/MOLINILLO_MOTORIZADO.ino)
 
@@ -61,18 +84,13 @@ https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
  [proyecto con dos movimiento](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09a_dos_botones_y_movimiento.ino)
  
  ## PROYECTO CON killswitch y potenciometro
+ 
  [proyecto con Killswitch y potenciómetro](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino)
  
  ![foto KILLSWITCH](https://github.com/Wesley3455/Arduino-/blob/main/1612871762579.jpg)
  
- ## EL CIRCUITO
- [EL CIRCUITO 1](https://github.com/Wesley3455/Arduino-/blob/main/EL_CIRCUITO.ino)
  
- [EL CIRCUITO 2](https://github.com/Wesley3455/Arduino-/blob/main/EL_CIRCUITO_2.ino)
  
- ## PROYECTO CON 7 LEDS
- [7 LEDS](https://github.com/Wesley3455/Arduino-/blob/main/bot_n_con7_leds.ino)
- ![FOTO](https://github.com/Wesley3455/Arduino-/blob/main/1613996991085.jpg)
  
  [ RELOG DE ARENA DIGITAL](https://github.com/Wesley3455/Arduino-/blob/main/RELOG_DE_ARENA_DIGITAL.ino)
  
