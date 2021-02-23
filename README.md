@@ -5,6 +5,10 @@ Hola soy wesley y me gusta jugar free fire.
 
 ## Índice de proyectos
 
+* Proyectos con LED Y botón
+
+* [PROYECTO CON 7 LEDS](https://github.com/Wesley3455/Arduino-#proyecto-con-7-leds)
+
 ## Proyectos realizados
 
 ### Proyectos con LED Y botón
@@ -12,6 +16,11 @@ Hola soy wesley y me gusta jugar free fire.
 ### Proyectos de luz RGB
 
 ### Proyectos de motores de corriente contínua 9V
+
+[Molinillo motorizado](https://github.com/Wesley3455/Arduino-/blob/main/MOLINILLO_MOTORIZADO.ino)
+
+### Otros enlaces y referencia 
+
 
 ## INDICE DEL PROYECTO
 
