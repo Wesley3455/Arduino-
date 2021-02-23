@@ -35,6 +35,8 @@ https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
  
  ![foto movimiento](https://github.com/Wesley3455/Arduino-/blob/main/1612860387340(1).jpg)
  
+ [CODIG SWITH](https://github.com/Wesley3455/Arduino-/blob/main/swith_pin_bc.ino)
+ 
  [proyecto con dos movimiento](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09a_dos_botones_y_movimiento.ino)
  
  ## PROYECTO CON killswitch y potenciometro
