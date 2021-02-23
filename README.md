@@ -35,7 +35,6 @@ https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
  
  ![foto movimiento](https://github.com/Wesley3455/Arduino-/blob/main/1612860387340(1).jpg)
  
- [CODIG SWITH](https://github.com/Wesley3455/Arduino-/blob/main/swith_pin_bc.ino)
  
  [proyecto con dos movimiento](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09a_dos_botones_y_movimiento.ino)
  
@@ -54,3 +53,7 @@ https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
  ![FOTO](https://github.com/Wesley3455/Arduino-/blob/main/1613996991085.jpg)
  
  [ RELOG DE ARENA DIGITAL](https://github.com/Wesley3455/Arduino-/blob/main/RELOG_DE_ARENA_DIGITAL.ino)
+ [CODIG SWITH](https://github.com/Wesley3455/Arduino-/blob/main/swith_pin_bc.ino)
+ 
+ 
+[Codigo swith diferente](https://github.com/Wesley3455/Arduino-/blob/main/swith_pin_bc_diferente.ino)
