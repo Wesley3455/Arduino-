@@ -7,7 +7,7 @@ Hola soy wesley y me gusta jugar free fire.
 
 * Proyectos con LED Y botón
 
-* [PROYECTO CON 7 LEDS](https://github.com/Wesley3455/Arduino-#proyecto-con-7-leds)
+* [PROYECTO CON 7 LEDS](#proyecto-con-7-leds)
 
 ## Proyectos realizados
 
