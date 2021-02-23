@@ -1,5 +1,18 @@
 ## DESCRIPCION DEL PROYECTO
-Hola soy wesley y me gusta jugar free fire 
+
+Hola soy wesley y me gusta jugar free fire.
+
+
+## Índice de proyectos
+
+## Proyectos realizados
+
+### Proyectos con LED Y botón
+
+### Proyectos de luz RGB
+
+### Proyectos de motores de corriente contínua 9V
+
 ## INDICE DEL PROYECTO
 
 [Instrucciones Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
