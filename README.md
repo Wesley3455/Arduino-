@@ -15,11 +15,26 @@ Hola soy wesley y me gusta jugar free fire.
 
 ### Proyectos de luz RGB
 
+## PROYECTO CON SKETCH MOTOR
+
+[proyecto Sketch motor](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb08a_motor.ino)
+
+https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
+![rreetdd](https://github.com/Wesley3455/Arduino-/blob/main/1612783302659.jpg)
+
 ## PROYECTO CON killswitch y potenciometro
 
 · [proyecto con Killswitch y potenciómetro](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino)
  
  ![foto KILLSWITCH](https://github.com/Wesley3455/Arduino-/blob/main/1612871762579.jpg)
+ 
+ ## PROYECTO CON DOS BOTONES Y MOVIMIENTO
+
+[proyecto con dos botones](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09a_dos_botones.ino) 
+ 
+ ![foto movimiento](https://github.com/Wesley3455/Arduino-/blob/main/1612860387340(1).jpg)
+ ### PROYECTO CON DOS MOVIMIENTO
+ [proyecto con dos movimiento](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09a_dos_botones_y_movimiento.ino)
  
 
  ## EL CIRCUITO
@@ -66,28 +81,17 @@ Hola soy wesley y me gusta jugar free fire.
 ## REPOSITORIO
 [Repositorios de compañeros](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
-## PROYECTO CON sketch motor 
-[proyecto Sketch motor](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb08a_motor.ino)
-
-https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
-![rreetdd](https://github.com/Wesley3455/Arduino-/blob/main/1612783302659.jpg)
 
 ## PROYECTO CON DOS BOTONES Y MOVIMIENTO
+
 [proyecto con dos botones](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09a_dos_botones.ino) 
 
-
- <img src="https://github.com/Wesley3455/Arduino-/blob/main/1612860387340.jpg" alt="proyecto con dos botones" width="500"> 
  
  ![foto movimiento](https://github.com/Wesley3455/Arduino-/blob/main/1612860387340(1).jpg)
  
  
  [proyecto con dos movimiento](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09a_dos_botones_y_movimiento.ino)
  
- ## PROYECTO CON killswitch y potenciometro
- 
- [proyecto con Killswitch y potenciómetro](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino)
- 
- ![foto KILLSWITCH](https://github.com/Wesley3455/Arduino-/blob/main/1612871762579.jpg)
  
  
  
