@@ -107,3 +107,5 @@ https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
 [MOTORleds](https://github.com/Wesley3455/Arduino-/blob/main/leds_con_motor.ino)
 
 [BARBOSA](https://github.com/Wesley3455/Arduino-/blob/main/media_notas_barbosa.ino)
+
+[BOLA DE CRISTAL](https://github.com/Wesley3455/Arduino-/blob/main/bola_de_cristal.ino)
