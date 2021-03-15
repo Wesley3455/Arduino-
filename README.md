@@ -110,6 +110,8 @@ https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
 
 [BOLA DE CRISTAL](https://github.com/Wesley3455/Arduino-/blob/main/bola_de_cristal.ino)
 
+![FOTO bola de cristal](https://github.com/Wesley3455/Arduino-/blob/main/1615280440746.jpg)
+
 [JOYSTICK CON LED](https://github.com/Wesley3455/Arduino-/blob/main/joystick_con_led.ino)
 
 ![foto JOY](https://github.com/Wesley3455/Arduino-/blob/main/1615280440737.jpg)
