@@ -117,3 +117,5 @@ https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
 [ZOOTROPO](https://github.com/Wesley3455/Arduino-/blob/main/ZOOTROPO.ino)
 
 ![FOTO ZOOTROPO](https://github.com/Wesley3455/Arduino-/blob/main/1615801167756.jpg)
+
+[LAMPARA TACTIL](https://github.com/Wesley3455/Arduino-/blob/main/LAMPARA_TACTIL.ino)
