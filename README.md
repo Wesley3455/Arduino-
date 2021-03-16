@@ -127,3 +127,5 @@ https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
 [LAMPARA TACTIL](https://github.com/Wesley3455/Arduino-/blob/main/LAMPARA_TACTIL.ino)
 
 ![FOTO](https://github.com/Wesley3455/Arduino-/blob/main/1615810009831.jpg)
+
+[LED CON POTENCIOMETRO](https://github.com/Wesley3455/Arduino-/blob/main/TRABAJO_CON_LEDPOTENCIOMETRO.ino)
