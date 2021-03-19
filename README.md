@@ -133,3 +133,5 @@ https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino
 ![FOTO](https://github.com/Wesley3455/Arduino-/blob/main/1615898150095.jpg)
 
 [problema 1](https://github.com/Wesley3455/Arduino-/blob/main/exm_problema1.ino)
+
+[PROBLEMA3](https://github.com/Wesley3455/Arduino-/blob/main/PROBLEMA3.ino)
